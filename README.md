@@ -64,7 +64,6 @@ This guide walks you through creating a custom Virtual Private Cloud (VPC) with 
 ![Diagram 16](VPC-SETUP-IMAGES/word/media/image16.png)
 ![Diagram 17](VPC-SETUP-IMAGES/word/media/image17.png)
 ![Diagram 18](VPC-SETUP-IMAGES/word/media/image18.png)
-![Diagram 19](VPC-SETUP-IMAGES/word/media/image19.png)
 
 
 ---
